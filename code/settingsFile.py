@@ -1,0 +1,6 @@
+fullTextPath        = '/mnt/datasets/erudit/'
+extractedTextPath   = 'fullText/'
+rankingsPath        = 'rankings'
+termsPath           = 'terms/'
+picklePath          = 'pickles/'
+SolrFilesPath       = 'solr.files/'
